@@ -3,7 +3,8 @@ Detects face and eyes in a real time environment. We use Haar-Cascade Classifier
 
 In this project, we use the system's webcam as an input. 
 
-#System Requirements
+# System Requirements
 Python with OpenCV installed.
+
 To install opencv:
 pip install opencv
